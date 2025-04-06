@@ -6,7 +6,7 @@ function tabung($num1, $num2){
 }
 
 $num1 = 4.2;
-$num2 = 5.2;
+$num2 = 5.4;
 
 $vol = round(tabung($num1, $num2), 3);
 echo "$vol m3";
